@@ -118,7 +118,7 @@
 ![alt](https://cache.digistar.vn/wp-content/uploads/2016/11/ois-sent-300x202.jpg?x72252)
 
 - Ở tầng **Application (tầng 7)**, người dùng tiến hành đưa thông tin cần gửi vào máy tính. Các thông tin này thường có dạng như: hình ảnh, văn bản,...
-- Sau đó thông tin dữ liệu này được chuyển xuống tầng **Presentation (tầng 6)** để chuyển các dữ liệu thành một dạng chung để nã hóa dữ liệu và nén dữ liệu.
+- Sau đó thông tin dữ liệu này được chuyển xuống tầng **Presentation (tầng 6)** để chuyển các dữ liệu thành một dạng chung để mã hóa dữ liệu và nén dữ liệu.
 - Dữ liệu tiếp tục được chuyển xuống tầng **Session (tầng 5)**. Tầng này là tầng phiên có chức năng bổ sung các thông tin cần thiết cho phiên giao dịch (gửi-nhận) này.
 - Sau khi tầng Session thực hiện xong nhiệm vụ, nó sẽ tiếp tục chuyển dữ liệu này xuống tầng **Transport (tầng 4)**. Tại tầng này, dữ liệu được cắt ra thành nhiều Segment và cũng làm nhiệm vụ bổ sung thêm các thông tin về phương thức vận chuyển dữ liệu để đảm bảo tính bảo mật, tin cậy khi truyền trong mô hình mạng.
 - Tiếp đó, dữ liệu sẽ được chuyển xuống tầng **Network (tầng 3)**.  Ở tầng này, các segment lại tiếp tục được cắt ra thành nhiều gói Package khác nhau và bổ sung thông tin định tuyến. Tầng Network này chức năng chính của nó là định tuyến đường đi cho gói tin chứa dữ liệu.
