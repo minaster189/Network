@@ -2,7 +2,7 @@
 
 ## DHCP là gi?
 
-Là viết tắt của **Dynamic Host Configuration Protocol**, là giao thức tự động cấp pháp địa chỉ IP đến các thiết bị trong mạng. Các địa chỉ IP được cung cấp từ giao thức DHCP sẽ cho phép chúng ta truy cập vào internet.
+> Là viết tắt của **Dynamic Host Configuration Protocol**, là giao thức tự động cấp pháp địa chỉ IP đến các thiết bị trong mạng. Các địa chỉ IP được cung cấp từ giao thức DHCP sẽ cho phép chúng ta truy cập vào internet.
 
 ![alt](https://wiki.matbao.net/wp-content/uploads/2019/08/ip-la-gi-ip-dong-co-the-duoc-tuy-chinh-boi-may-chu-dhcp.jpg)
 
