@@ -2,7 +2,7 @@
 
 ## IP là gì?
 
-IP viết tắt của Internet Protocol là địa chỉ số mà mọi thiết bị kết nối mạng đều có để chia sẻ dữ liệu với những thiết bị khác thông qua giao thức kết nối Internet.
+> IP viết tắt của Internet Protocol là địa chỉ số mà mọi thiết bị kết nối mạng đều có để chia sẻ dữ liệu với những thiết bị khác thông qua giao thức kết nối Internet.
 
 ## IP có công dụng gì?
 
