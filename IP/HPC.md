@@ -2,7 +2,7 @@
 
 ## HPC là  gì?
 
-> HPC là High Performance Computer = tính toán hiệu năng cao. Để đạt đc tính toán hiệu năng cao trước đây người ta dùng siêu may tính hiện tại vẫn còn dùng nhưng chi phí quá đắt đỏ nên mới có một solution khác là ghép nhiều máy tính lại vs nhau đẻ thực hiện việc tính toán trong một mạng lưới như vậy các máy tính con đc gọi là node kết nối vs nhau bởi 1 mạng tốc độ cao để đảm bảo tốc độ truyền dữ liệu đc đảm bảo vì dadagn cần hiệu năng tính toán cao mà mạng này thương gọi là mạng infinity band.
+> HPC là High Performance Computer = tính toán hiệu năng cao. Để đạt đc tính toán hiệu năng cao trước đây người ta dùng siêu máy tính hiện tại vẫn còn dùng nhưng chi phí quá đắt đỏ nên mới có một solution khác là ghép nhiều máy tính lại vs nhau đẻ thực hiện việc tính toán trong một mạng lưới như vậy các máy tính con đc gọi là node kết nối vs nhau bởi 1 mạng tốc độ cao để đảm bảo tốc độ truyền dữ liệu đc đảm bảo vì dadagn cần hiệu năng tính toán cao mà mạng này thương gọi là mạng infinity band.
 
 ## vậy cần tính toán hiệu năng cao để làm gì?
 
